@@ -1,0 +1,6 @@
+train: cats/train/images
+val: cats/valid/images
+test: cats/test/images
+
+nc: 5
+names: ['Ragdolls','Singapura cats','Persian cats','Sphynx cats','Scottish fold cats']
